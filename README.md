@@ -7,6 +7,7 @@
     I enjoy make a music on my free times
 
 - 📫 How to reach me **samirdev9669@gmail.com**
+- Languajes: English B1 | Spanish Native
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
