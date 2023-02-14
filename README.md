@@ -4,7 +4,7 @@
 - 💬 About me: I'm a developer who loves to take on new projects that challenges his analytical and technological capacities.
 
     I’m currently learning a bit of design ui and new technologies.
-    I enjoy make a music on my free times
+    I enjoy make a music on my free times,
 
 - 📫 How to reach me **samirdev9669@gmail.com**
 - Languajes: English B1 | Spanish Native
