@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👽, Samir Jabib </h1>
-<h3 align="center">A Full stack Javascript developer from Colombia, apasionate for the code and the art. i am always open to new challenges and learning new things.</h3>
+<h3 align="center">A Full stack Javascript developer from Colombia, apasionate for the code and the art. always open to new challenges and learning new things.</h3>
 
 - 💬 Languages: **Spanish, English B1**
 - 💌 Email: **samirdev9669@gmail.com**
