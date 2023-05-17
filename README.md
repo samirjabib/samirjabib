@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir Jabib</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 💬 About me: I'm a developer who loves to take on new projects that challenges his analytical and technological capacities.
+- 💬 About me: I'm a developer who loves to take on new projects.
 
     I’m currently learning a bit of design ui and new technologies.
     I enjoy make a music on my free times,
