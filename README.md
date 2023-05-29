@@ -3,7 +3,7 @@
 
 - 💬 About me: I'm a developer who loves to take on new projects.
 
-    I enjoy make a music on my free times,
+    I enjoy make a music on my free times, my favorite DAW is Ableton Live
 
 - 📫 How to reach me **samirdev9669@gmail.com**
 - Languajes: English B1 | Spanish Native
