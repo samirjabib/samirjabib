@@ -12,6 +12,4 @@ Backend: Node.js, Next.js, Express.
 
 Outside of programming, I make beats 🎼, Ableton Live is me favorite daw!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samirjabib&show_icons=true&locale=en" alt="juaneliasjabib02" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirjabib&" alt="samirjabib" /></p>
