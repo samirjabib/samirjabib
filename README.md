@@ -3,10 +3,10 @@
 
 I'm Samir, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Node.js and React ⚛. In addition to that, I enjoy working with various libraries and technologies to enhance my projects, particularly in the context of e-commerce in this moment. My current stack include:
 
-Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js, Supabase
+Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js, 
 
 
-Backend: Node.js, Next.js, Express. 
+Backend: Node.js, Next.js, Express, Supabase
 
 CMS:Sanity.io, DatoCMS, Shopify
 
