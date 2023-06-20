@@ -14,4 +14,3 @@ CMS:Sanity.io, DatoCMS, Shopify
 
 Outside of programming, I make beats 🎼, Ableton Live is me favorite daw!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samirjabib&" alt="samirjabib" /></p>
