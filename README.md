@@ -1,7 +1,7 @@
 
 <h1 align="start">Be positive, Be happy!🌱</h1>
 
-I'm Samir, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Node.js and React ⚛. In addition to that, I enjoy working with various libraries and technologies to enhance my projects, particularly in the context of e-commerce atm i learning shopify frontstore,  in this moment. My current stack include:
+I'm Samir, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Node.js and React ⚛. In addition to that, I enjoy working with various libraries and technologies to enhance my projects,   in this moment. My current stack include:
 
 Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js, 
 
