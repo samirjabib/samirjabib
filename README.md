@@ -3,7 +3,7 @@
 
 I'm Samir, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Node.js and React ⚛. In addition to that, I enjoy working with various libraries and technologies to enhance my projects,   in this moment im learning Vtex for specializing in ecommerce and my current stack include:
 
-Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js, Vtex,
+Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js,
 
 Backend: Node.js, Next.js, Express, Supabase,
 
