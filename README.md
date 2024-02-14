@@ -1,15 +1,27 @@
+<h1 align="start">Stay Positive, Stay Happy!🌱</h1>
+Hello! I'm Samir, a programmer from Colombia specializing in website development. My primary focus revolves around crafting projects using Next.js, a technology I'm truly passionate about. Additionally, I enjoy working with various libraries and technologies to elevate my projects, with my current emphasis on platforms within the adult industry.
 
-<h1 align="start">Be positive, Be happy!🌱</h1>
+Frontend:
 
-I'm Samir, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Next.js. In addition to that, I enjoy working with various libraries and technologies to enhance my projects.
+React
+Tailwind
+Next.js
+Typescript
+Jest
+Backend:
 
-Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js
-Backend: Node.js, Next.js, Express, Supabase
-E-commerce:Vtex.io.
+Node.js
+Express
+Supabase
+E-commerce:
 
-CMS:Sanity.io, DatoCMS.
+Vtex.io
+CMS:
 
-- 📫 How to reach me: just dm me on linkenid <a href="https://www.linkedin.com/in/samir-jabib-48647597/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pietromag" height="30" width="40" /></a>
+Sanity.io
 
-Outside of programming, I make beats 🎼, Ableton Live is me favorite daw!
+DatoCMS
 
+📫 You can reach out to me by sending a direct message on LinkedIn.
+
+Beyond the realm of programming, I delve into beat creation 🎼, with Ableton Live standing as my favorite DAW.
