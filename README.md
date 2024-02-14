@@ -1,11 +1,11 @@
 
 <h1 align="start">Be positive, Be happy!🌱</h1>
 
-I'm Samir, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Node.js and React ⚛. In addition to that, I enjoy working with various libraries and technologies to enhance my projects.
+I'm Samir, a programmer from Colombia. I specialize in building websites, and I'm a big fan of Next.js. In addition to that, I enjoy working with various libraries and technologies to enhance my projects.
 
-Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js, VTEX IO
-
-Backend: Node.js, Next.js, Express, Supabase,
+Frontend: React, Tailwind, Next13, Typescript, Jest, Next.js
+Backend: Node.js, Next.js, Express, Supabase
+E-commerce:Vtex.io.
 
 CMS:Sanity.io, DatoCMS.
 
