@@ -1,7 +1,7 @@
 <h1 align="start" >Javascript Developer</h1>
 
 <ul>
-  <li>Currently, i can work with any JavaScript stack, front-end or back-end. I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
+  <li>Currently, i can work with any JavaScript stack, front-end or back-end.I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
   <li>Interested on  building custom apps with modern stacks like Next.js and Supabase. This setup helps small teams create secure, high-performance, and SEO-friendly apps quickly and easily.
   <li>in love with Medusa.js for my e-commerce sites with Next.js + Vercel. It's like the elixir for crafting top-quality e-commerce!.
 </li>
