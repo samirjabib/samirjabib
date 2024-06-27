@@ -1,4 +1,4 @@
-<h1 align="start" >Javacript Developer | React | Node | Next.js </h1>
+<h1 align="start" >Javascript Developer | React | Node | Next.js </h1>
 
 <ul>
   <li>Currently, i can work with any JavaScript stack, front-end or back-end.I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
