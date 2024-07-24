@@ -1,4 +1,4 @@
-<h1 align="start" >Product Developer</h1>
+<h1 align="start" >Full-Stack Developer</h1>
 
 <ul>
   <li>Currently, i can work with any JavaScript stack, front-end or back-end.I quickly learn new libraries by reading the docs and applying them to solve problems simultaneously.</li>
