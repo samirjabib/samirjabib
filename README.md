@@ -1,6 +1,4 @@
 <h1 align="start" >Full-Stack Developer</h1>
-# Full-Stack Developer
-
 
 ## About Me  
 Software Developer with 4+ years of experience building full-stack solutions for e-commerce platforms, SaaS applications, and scalable UI component libraries for npm. I specialize in creating responsive, maintainable web and mobile applications using React and TypeScript. Skilled in clean code practices, design patterns, and agile methodologies, with expertise in Node.js, serverless technologies, and tools like Supabase and Nx. Passionate about continuously learning and staying updated with the latest technology trends to enhance productivity and deliver innovative, high-quality solutions.
