@@ -41,8 +41,9 @@ Generative AI since 2022 (ChatGPT beta)
 Daily workflow: **Cursor** · **Claude** · frontier models  
 → AI-assisted coding (100% human-supervised) to maximize output and iteration speed
 
-Currently exploring:  
-- Advanced React + Node.js patterns in production  
-- Headless commerce architectures with Hydrogen + Pack Digital  
-- Distributed workloads and low-latency apps on Fly.io  
-- Deeper AI integration in the dev workflow
+## Currently exploring
+- Advanced React + Node.js patterns in production environments  
+- Headless commerce architectures with **Hydrogen + Pack Digital**  
+- Distributed workloads and low-latency applications on **Fly.io**  
+- Deeper integration of AI into the development workflow  
+- Modern **Liquid** patterns and best practices with **Horizon** (Shopify’s design system & theme foundations)
