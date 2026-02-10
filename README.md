@@ -1,5 +1,4 @@
 <h1 align="start">React + Node.js Developer | Shopify Specialist</h1>
-##About Me
 
 Developer specialized in **React** and **Node.js** with +5 years of experience building modern web applications, **SaaS products**, **digital products**, and high-performance **e-commerce solutions** — including custom headless storefronts with **Shopify Hydrogen** and **Pack Digital**.
 
