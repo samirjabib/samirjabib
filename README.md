@@ -15,7 +15,7 @@ TypeScript · JavaScript · Node.js
 
 **Frontend – React Ecosystem**  
 React · Next.js · React Native  · Remix v2 · React Router 7
-Tailwind CSS · Hydrogen (Shopify)  
+Tailwind CSS · Hydrogen (Shopify)  · Theme Development (Liquid)   
 Modern React patterns · Component libraries · Performance optimization
 
 **Backend – Node.js Ecosystem**  
