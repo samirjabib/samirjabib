@@ -14,7 +14,7 @@ Passionate about creating fast, reliable, and developer-friendly systems using R
 TypeScript · JavaScript · Node.js
 
 **Frontend – React Ecosystem**  
-React · Next.js · React Native  
+React · Next.js · React Native  · Remix v2 · React Router 7
 Tailwind CSS · Hydrogen (Shopify)  
 Modern React patterns · Component libraries · Performance optimization
 
