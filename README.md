@@ -19,7 +19,7 @@ Modern React patterns · Component libraries · Performance optimization
 **Backend – Node.js Ecosystem**  
 Node.js · **Express** · **NestJS**
 Supabase · PostgreSQL ·  MongoDB
-Serverless (Vercel Functions, Cloudflare Workers, Oxygen (Shopify))  
+Serverless (Vercel Functions, Cloudflare Workers, Oxygen)  
 Typed APIs (tRPC, Zod) · REST + GraphQL
 
 **E-commerce Technologies**  
