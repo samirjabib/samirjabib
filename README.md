@@ -17,9 +17,9 @@ Tailwind CSS · Hydrogen (Shopify)  · Theme Development (Liquid)
 Modern React patterns · Component libraries · Performance optimization
 
 **Backend – Node.js Ecosystem**  
-Node.js · **Express** · **NestJS** (modular architecture, DI, decorators, enterprise patterns)  
-Supabase · PostgreSQL · Strapi  
-Serverless (Vercel Functions, Cloudflare Workers)  
+Node.js · **Express** · **NestJS**
+Supabase · PostgreSQL ·  MongoDB
+Serverless (Vercel Functions, Cloudflare Workers, Oxygen (Shopify))  
 Typed APIs (tRPC, Zod) · REST + GraphQL
 
 **E-commerce Technologies**  
@@ -28,7 +28,7 @@ Shopify (Liquid · Shopify Apps · Checkout Extensibility · Shopify Functions)
 **VTEX.io** (VTEX IO, VTEX Apps, Checkout APIs)
 
 **Platform & Infrastructure**  
-Vercel · Cloudflare · **Fly.io**  
+Vercel · Cloudflare · **Fly.io**  · AWS
 Serverless · Edge computing
 
 **Testing & Quality**  
