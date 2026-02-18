@@ -31,9 +31,6 @@ Shopify (Liquid · Shopify Apps · Checkout Extensibility · Shopify Functions)
 Vercel · Cloudflare · **Fly.io**  · AWS
 Serverless · Edge computing
 
-**Testing & Quality**  
-Vitest · Storybook
-
 **AI & Developer Experience**  
 Daily workflow: **Cursor** · **Claude** · frontier models  
 → AI-assisted coding (100% human-supervised) to maximize output and iteration speed
