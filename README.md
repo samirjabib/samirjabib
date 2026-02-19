@@ -1,4 +1,4 @@
-<h1 align="start">React + Node.js Developer | Shopify Specialist</h1>
+<h1 align="start">Full-Stack Developer | Shopify Specialist</h1>
 
 Developer specialized in **React** , **Node.js** and Shopify Platform with +5 years of experience building modern web applications, **SaaS products**, **digital products**, and high-performance **e-commerce solutions** — including custom headless storefronts with **Shopify Hydrogen** 
 
