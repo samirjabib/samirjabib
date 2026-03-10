@@ -24,7 +24,7 @@ Typed APIs (tRPC, Zod) · REST + GraphQL
 
 **E-commerce Technologies**  
 **Shopify Hydrogen** + **Pack Digital** (headless storefronts, Blueprint theme, visual editing, A/B testing, personalization)  
-Shopify (Liquid · Shopify Apps · Checkout Extensibility · Shopify Functions)  
+Shopify (Liquid · Shopify Apps · Checkout Extensibility · Shopify Functions · Post Purchase)  
 
 **Platform & Infrastructure**  
 Vercel · Cloudflare · **Fly.io**  · AWS
