@@ -36,7 +36,7 @@
   `Vercel` · `Cloudflare` · `Fly.io` · `AWS Serverless` · Edge computing                                                   
                                                                                                                          
   **AI & Developer Experience**                
-  Daily workflow: `Cursor` · `Claude Code` · frontier models
+  Daily workflow: `Claude Code` · frontier models
   AI-assisted coding with human supervision + multi-agent workflows for solo product development                           
    
   ### Currently exploring                                                                                                  
