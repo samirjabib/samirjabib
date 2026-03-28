@@ -1,6 +1,6 @@
 ## Full-Stack Developer | Shopify Specialist                                                                             
                                                                                                                          
-  Developer specialized in React, Node.js, and Shopify Platform with +5 years of experience building modern web            
+  Developer specialized in React, Node.js, and Shopify Platform with +6 years of experience building modern web            
   applications, SaaS products, digital products, and high-performance e-commerce solutions — including custom headless     
   storefronts with Shopify Hydrogen.                                                                                       
                                                                                                                            
