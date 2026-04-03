@@ -4,7 +4,7 @@
   applications, SaaS products, digital products, and high-performance e-commerce solutions — including custom headless     
   storefronts with Shopify Hydrogen.                                                                                       
                                                                                                                            
-  Since late 2022, I've been heavily using generative AI (ChatGPT beta → Cursor → Claude Code) — always with full human    
+  Since late 2022, I've been heavily using generative AI (ChatGPT beta → Cursor → Claude Code & Codex) — always with full human    
   supervision and review — which allows me to produce significantly more high-quality code in less time. More recently I've
    been working with multi-agent workflows in Claude Code, coordinating specialized agents for different aspects of a      
   project (architecture, content, research) to move faster as a solo developer.                                          
