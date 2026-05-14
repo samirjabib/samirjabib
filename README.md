@@ -17,6 +17,5 @@
   - Building SaaS products as a solo dev using multi-agent workflows (Claude Code)
   - Advanced React 19 + Next.js 16 patterns (Server Components, Server Actions)
   - Real-time backends with Convex                                                                                         
-  - Headless commerce architectures with Hydrogen + Pack Digital
   - Distributed workloads and low-latency applications on Fly.io                                                           
   - Modern Liquid patterns with Horizon (Shopify's design system & theme foundations)       
