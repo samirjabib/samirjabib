@@ -11,34 +11,7 @@
                                                
   Passionate about creating systems using React + Node.js ecosystems, modern TypeScript architectures.
 
-  ### Tech Stack                                                                                                           
-   
-  **Languages & Core**                                                                                                     
-  `TypeScript` · `JavaScript` · `Node.js`                                                                                
-                                               
-  **Frontend – React Ecosystem**
-  `React` · `Next.js` · `React Native` · `Remix v2` · `React Router 7` · `Tailwind CSS` · `Hydrogen` · `Liquid`
-  Modern React patterns · Component libraries · Performance optimization                                                   
-   
-  **Backend – Node.js Ecosystem**                                                                                          
-  `Node.js` · `Express` · `NestJS` · `Convex` · `Supabase` · `PostgreSQL` · `MongoDB` · Serverless (`Vercel Functions` · 
-  `Cloudflare Workers` · `Oxygen`)                                                                                         
-  Typed APIs (`tRPC` · `Zod`) · REST + GraphQL
-                                                                                                                           
-  **Shopify – Full Platform**                                                                                            
-  `Hydrogen` + `Pack Digital` (headless storefronts, Blueprint theme, visual editing, A/B testing)
-  `Shopify Functions` (discounts, payment/delivery customization, cart transform, validation)                              
-  `Checkout UI Extensions` · `Post-Purchase Extensions` · `Shopify Apps` (embedded, App Bridge)
-  Theme Development (`Liquid` · OS 2.0 sections/blocks · schema · metafields)                                              
-  `GraphQL Admin API` · `Storefront API` · `Webhooks` · `Billing API`                                                    
-                                                                                                                           
-  **Platform & Infrastructure**                                                                                          
-  `Vercel` · `Cloudflare` · `Fly.io` · `AWS Serverless` · Edge computing                                                   
-                                                                                                                         
-  **AI & Developer Experience**                
-  Daily workflow: `Claude Code` · frontier models
-  AI-assisted coding with human supervision + multi-agent workflows for solo product development                           
-   
+                             
   ### Currently exploring                                                                                                  
                                                                                                                          
   - Building SaaS products as a solo dev using multi-agent workflows (Claude Code)
