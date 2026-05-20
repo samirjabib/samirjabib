@@ -18,4 +18,3 @@
   - Advanced React 19 + Next.js 16 patterns (Server Components, Server Actions)
   - Real-time backends with Convex                                                                                         
   - Distributed workloads and low-latency applications on Fly.io                                                           
-  - Modern Liquid patterns with Horizon (Shopify's design system & theme foundations)       
