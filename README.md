@@ -14,7 +14,7 @@
                              
   ### Currently exploring                                                                                                  
                                                                                                                          
-  - Building SaaS products as a solo dev using multi-agent workflows (Claude Code)
+  - Building SaaS products as a solo dev using multi-agent workflows (Claude Code & Codex)
   - Advanced React 19 + Next.js 16 patterns (Server Components, Server Actions)
   - Real-time backends with Convex                                                                                         
   - Distributed workloads and low-latency applications on Fly.io                                                           
