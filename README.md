@@ -6,10 +6,10 @@
                                                                                                                            
   Since late 2022, I've been heavily using generative AI (ChatGPT beta → Cursor → Claude Code & Codex) — always with full human    
   supervision and review — which allows me to produce significantly more high-quality code in less time. More recently I've
-   been working with multi-agent workflows in Claude Code, coordinating specialized agents for different aspects of a      
+   been working with multi-agent workflows in Claude Code, Opencode (with GPT Models), coordinating specialized agents for different aspects of a      
   project (architecture, content, research) to move faster as a solo developer.                                          
                                                
-  Passionate about creating systems using React + Node.js ecosystems, modern TypeScript architectures.
+  Passionate about creating systems using, modern TypeScript architectures.
 
                              
   ### Currently exploring                                                                                                  
